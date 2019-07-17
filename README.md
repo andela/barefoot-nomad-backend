@@ -1,2 +1,8 @@
-# barefoot-nomad-backend
-Github repo to be used for the Andela remote program
+Barefoot Nomad - Making company travel and accomodation easy and convinient.
+=======
+
+## Vision
+Make company global travel and accommodation easy and convenient for the strong workforce of savvy members of staff, by leveraging the modern web.
+
+---
+
